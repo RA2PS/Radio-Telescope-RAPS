@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "MAX8510EXK30T") (type "KiCad") (uri "${RADIO_TELESCOPE_RAPS_PATH}/KiCad/lib/symbols/MAX8510EXK30T.kicad_sym") (options "") (descr ""))
+)
